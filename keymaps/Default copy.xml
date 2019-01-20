@@ -1,6 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CollapseAllRegions">
@@ -25,6 +29,7 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift down" />
   </action>
@@ -32,6 +37,14 @@
     <keyboard-shortcut first-keystroke="shift up" />
   </action>
   <action id="NextEditorTab" />
+  <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl p" />
+  </action>
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl z" second-keystroke="ctrl z" />
+  </action>
   <action id="XDebugger.MoveWatchUp" />
 </keymap>
