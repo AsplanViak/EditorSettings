@@ -1,6 +1,6 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="$Undo">
-    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
@@ -17,6 +17,9 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorDownWithSelection" />
   <action id="EditorToggleUseSoftWraps">
@@ -44,7 +47,7 @@
   </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="ctrl z" second-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl z" />
   </action>
   <action id="Vcs.Log.ShowRootsColumnAction">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl n" />
