@@ -46,5 +46,8 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl z" second-keystroke="ctrl z" />
   </action>
+  <action id="Vcs.Log.ShowRootsColumnAction">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl n" />
+  </action>
   <action id="XDebugger.MoveWatchUp" />
 </keymap>
