@@ -1,0 +1,3 @@
+<list display="Standardiser kode" description="Pep8 Autofirmat">
+  <action id="ReformatCode" />
+</list>
