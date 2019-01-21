@@ -8,7 +8,10 @@
   <action id="CheckinProject" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="shift alt left" />
@@ -27,7 +30,10 @@
   </action>
   <action id="EditorUpWithSelection" />
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="shift alt right" />
