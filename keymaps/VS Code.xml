@@ -1,4 +1,5 @@
 <keymap version="1" name="VS Code" parent="Visual Studio">
+  <action id="ChangesView.SetDefault" />
   <action id="CheckinProject" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt k" second-keystroke="alt c" />
