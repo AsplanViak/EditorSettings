@@ -21,6 +21,9 @@
   </action>
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ResizeToolWindowRight" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt k" second-keystroke="alt p" />
