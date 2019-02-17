@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="installer (code)" type="Pascal" />
       <mapping ext="iss" type="Pascal" />
+      <mapping pattern="rammeverk" type="Python" />
       <mapping ext="pickle" type="Python" />
     </extensionMap>
   </component>
