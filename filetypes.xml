@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="_layout" type="PLAIN_TEXT" />
       <mapping ext="apx" type="PLAIN_TEXT" />
+      <mapping ext="rte" type="PLAIN_TEXT" />
       <mapping pattern="installer (code)" type="Pascal" />
       <mapping ext="iss" type="Pascal" />
       <mapping pattern="rammeverk" type="Python" />
