@@ -27,6 +27,9 @@
   </action>
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
