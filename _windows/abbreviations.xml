@@ -1,0 +1,10 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="GotoSuperMethod" />
+      <action id="Images.Thumbnails.ToggleRecursive">
+        <abbreviation name="re" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

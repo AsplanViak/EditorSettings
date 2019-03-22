@@ -1,0 +1,24 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="CollapseAll">
+    <mouse-shortcut keystroke="shift button142" />
+    <keyboard-shortcut first-keystroke="shift c" second-keystroke="shift a" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <mouse-shortcut keystroke="shift button142" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <mouse-shortcut keystroke="shift button143" />
+    <keyboard-shortcut first-keystroke="shift e" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <mouse-shortcut keystroke="shift button143" />
+  </action>
+  <action id="ScopeView.EditScopes">
+    <keyboard-shortcut first-keystroke="shift s" second-keystroke="shift s" />
+  </action>
+</keymap>
