@@ -21,4 +21,7 @@
   <action id="ScopeView.EditScopes">
     <keyboard-shortcut first-keystroke="shift s" second-keystroke="shift s" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift z" />
+  </action>
 </keymap>
