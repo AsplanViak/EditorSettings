@@ -15,9 +15,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
   </action>
-  <action id="CollapseRegionRecursively">
-    <mouse-shortcut keystroke="button1 doubleClick" />
-  </action>
+  <action id="CollapseRegionRecursively" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -50,9 +48,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
   </action>
-  <action id="ExpandRegionRecursively">
-    <mouse-shortcut keystroke="button1" />
-  </action>
+  <action id="ExpandRegionRecursively" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
