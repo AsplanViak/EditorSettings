@@ -2,9 +2,7 @@
   <component name="AbbreviationManager">
     <abbreviations>
       <action id="GotoSuperMethod" />
-      <action id="Images.Thumbnails.ToggleRecursive">
-        <abbreviation name="re" />
-      </action>
+      <action id="Images.Thumbnails.ToggleRecursive" />
     </abbreviations>
   </component>
 </application>
