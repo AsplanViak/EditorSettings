@@ -52,9 +52,6 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
-  <action id="ScopeView.EditScopes">
-    <keyboard-shortcut first-keystroke="shift s" second-keystroke="shift s" />
-  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift z" />
   </action>
