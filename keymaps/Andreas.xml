@@ -45,7 +45,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl a" />
   </action>
-  <action id="ExpandRegionRecursively" />
+  <action id="ExpandRegionRecursively">
+    <mouse-shortcut keystroke="shift button1 doubleClick" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
