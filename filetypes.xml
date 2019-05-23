@@ -6,10 +6,11 @@
       <mapping pattern="_layout" type="PLAIN_TEXT" />
       <mapping ext="apx" type="PLAIN_TEXT" />
       <mapping ext="rte" type="PLAIN_TEXT" />
-      <mapping pattern="installer (code)" type="Pascal" />
-      <mapping ext="iss" type="Pascal" />
       <mapping pattern="rammeverk" type="Python" />
+      <mapping pattern="IFCOneDrive" type="Python" />
       <mapping ext="pickle" type="Python" />
+      <mapping ext="iss" type="Pascal" />
+      <mapping pattern="installer (code)" type="Pascal" />
     </extensionMap>
   </component>
 </application>
