@@ -35,6 +35,9 @@
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
