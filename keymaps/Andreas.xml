@@ -1,6 +1,7 @@
 <keymap version="1" name="Andreas" parent="$default">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
@@ -23,6 +24,8 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl back_space" second-keystroke="ctrl back_space" />
   </action>
@@ -54,7 +57,10 @@
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
