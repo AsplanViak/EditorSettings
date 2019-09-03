@@ -7,6 +7,7 @@
       <mapping ext="apx" type="PLAIN_TEXT" />
       <mapping ext="rte" type="PLAIN_TEXT" />
       <mapping pattern="rammeverk" type="Python" />
+      <mapping pattern="__init__" type="Python" />
       <mapping pattern="IFCOneDrive" type="Python" />
       <mapping ext="pickle" type="Python" />
       <mapping ext="iss" type="Pascal" />
