@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Python/Add type hints for function" />
-    <ignoreAction name="Python/Convert between single-quoted and double-quoted strings" />
-    <ignoreAction name="Python/Insert type assertion" />
-  </component>
-</application>
