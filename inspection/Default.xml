@@ -11,6 +11,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="__forceddebugmode__" />
+        <option value="__shiftclick__" />
       </list>
     </option>
   </inspection_tool>
