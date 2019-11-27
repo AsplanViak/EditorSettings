@@ -1,6 +1,7 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="EditorDeleteToLineEnd" />
       <action id="GotoSuperMethod" />
       <action id="Images.Thumbnails.ToggleRecursive" />
     </abbreviations>
