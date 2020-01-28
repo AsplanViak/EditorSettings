@@ -7,7 +7,6 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
     <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="JAVADOC_INFO_DELAY" value="500" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
@@ -34,7 +33,7 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.py;" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
