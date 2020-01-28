@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list=".git;" />
+    <ignoreFiles list=" *.rvt: *.*rfa;.git;" />
     <extensionMap>
       <mapping pattern="markdowntest" type="Markdown" />
       <mapping pattern="AlleIFCKlasser" type="PLAIN_TEXT" />

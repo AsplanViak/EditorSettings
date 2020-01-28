@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\extensions'" />
-    <option name="defaultScopeName" value="Directory '...\extensions'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\extensions'" />
+    <option name="customScope" value="Directory '...\extensions\AVTools.extension\AVTools.tab'" />
+    <option name="defaultScopeName" value="Directory '...\extensions\AVTools.extension\AVTools.tab'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\extensions\AVTools.extension\AVTools.tab'" />
   </component>
 </application>
