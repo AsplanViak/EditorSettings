@@ -4,7 +4,7 @@
     <property name="created">2019-03-22T23:08:53</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-11-13T18:25:53</property>
+    <property name="modified">2020-01-28T21:31:13</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -19,6 +19,11 @@
     <option name="VISUAL_INDENT_GUIDE" value="837e2e" />
   </colors>
   <attributes>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="3b805c" />
@@ -29,16 +34,35 @@
         <option name="FOREGROUND" value="3b805c" />
       </value>
     </option>
+    <option name="DUPLICATE_FROM_SERVER">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8c8c8c" />
+      </value>
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="293929" />
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="364135" />
       </value>
     </option>
     <option name="PY.ANNOTATION">
       <value>
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="530d" />
       </value>
     </option>
     <option name="TEXT">
@@ -48,9 +72,32 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="3c704b" />
+        <option name="ERROR_STRIPE_COLOR" value="61936f" />
+      </value>
+    </option>
     <option name="TYPO">
       <value>
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="be3e25" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="8d4457" />
       </value>
     </option>
   </attributes>
