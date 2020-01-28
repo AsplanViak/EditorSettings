@@ -78,6 +78,7 @@
   <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyCompatibilityInspection" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ourVersions">
@@ -88,8 +89,9 @@
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="PyIncorrectDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+  <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="ignoredErrors">
       <list>
         <option value="not at top" />
@@ -106,6 +108,9 @@
     </option>
   </inspection_tool>
   <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PySingleQuotedDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyTypeHintsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredIdentifiers">
       <list>
@@ -115,6 +120,12 @@
         <option value="dict.__getitem__" />
         <option value="__ipyenginemanager__" />
         <option value="__revit__" />
+        <option value="Revit.GeometryConversion" />
+        <option value="Autodesk.Revit.DB.DB_parts.FillPattern.FillPattern.Id" />
+        <option value="pyrevit.revit.doc" />
+        <option value="pyrevit.revit.activeview" />
+        <option value="System.Collections.Generic.Generic_parts.ICollection.ICollection.__getitem__" />
+        <option value="Revit.Elements" />
       </list>
     </option>
   </inspection_tool>

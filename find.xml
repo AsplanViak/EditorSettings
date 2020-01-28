@@ -1,7 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\extensions\AVTools.extension\AVTools.tab'" />
-    <option name="defaultScopeName" value="Directory '...\extensions\AVTools.extension\AVTools.tab'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\extensions\AVTools.extension\AVTools.tab'" />
+    <option name="customScope" value="Relevant" />
+    <option name="defaultScopeName" value="Relevant" />
+    <option name="SEARCH_SCOPE" value="Relevant" />
+    <option name="FILE_MASK" value="*.py" />
   </component>
 </application>
