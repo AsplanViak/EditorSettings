@@ -10,7 +10,7 @@
     <keywords ignore_case="true" />
   </highlighting>
   <extensionMap>
-    <mapping ext="rvt" />
     <mapping ext="rfa" />
+    <mapping ext="rvt" />
   </extensionMap>
 </filetype>
