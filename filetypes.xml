@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list=" *.rvt: *.*rfa;.git;" />
     <extensionMap>
+      <mapping ext="dll" type="GitIgnore file" />
       <mapping pattern="markdowntest" type="Markdown" />
       <mapping pattern="AlleIFCKlasser" type="PLAIN_TEXT" />
       <mapping pattern="_layout" type="PLAIN_TEXT" />
@@ -12,6 +13,8 @@
       <mapping pattern="IFCExportere" type="Python" />
       <mapping pattern="IFCOneDrive" type="Python" />
       <mapping ext="pickle" type="Python" />
+      <removed_mapping ext="dll" approved="true" type="UNKNOWN" />
+      <removed_mapping ext="dll" approved="true" type="UNKNOWN" />
       <mapping ext="iss" type="Pascal" />
       <mapping pattern="installer (code)" type="Pascal" />
     </extensionMap>
