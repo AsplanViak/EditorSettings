@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list=" *.rvt: *.*rfa;.git;" />
+    <ignoreFiles list=" *.rvt: *.*rfa; *_parts.py;.git;" />
     <extensionMap>
       <mapping ext="dll" type="GitIgnore file" />
       <mapping pattern="markdowntest" type="Markdown" />
       <mapping pattern="_layout" type="PLAIN_TEXT" />
       <mapping pattern="AlleIFCKlasser" type="PLAIN_TEXT" />
-      <mapping ext="apx" type="PLAIN_TEXT" />
       <mapping ext="rte" type="PLAIN_TEXT" />
-      <mapping pattern="IFCOneDrive" type="Python" />
+      <mapping ext="apx" type="PLAIN_TEXT" />
       <mapping pattern="IFCExportere" type="Python" />
       <mapping pattern="__init__" type="Python" />
       <mapping pattern="rammeverk" type="Python" />
+      <mapping pattern="IFCOneDrive" type="Python" />
       <mapping ext="pickle" type="Python" />
       <removed_mapping ext="dll" approved="true" type="UNKNOWN" />
       <removed_mapping ext="dll" approved="true" type="UNKNOWN" />
