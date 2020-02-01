@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\site-packages\AVSnippets\__init__.py'" />
-    <option name="defaultScopeName" value="File '...\site-packages\AVSnippets\__init__.py'" />
+    <option name="customScope" value="Directory '...\site-packages\AVStubGen'" />
+    <option name="defaultScopeName" value="Directory '...\site-packages\AVStubGen'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\site-packages\AVSnippets\__init__.py'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\site-packages\AVStubGen'" />
   </component>
 </application>
