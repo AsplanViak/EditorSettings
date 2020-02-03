@@ -414,6 +414,7 @@
         <option value="pyrevit.revit.activeview" />
         <option value="System.Collections.Generic.Generic_parts.ICollection.ICollection.__getitem__" />
         <option value="Revit.Elements" />
+        <option value="os.path" />
       </list>
     </option>
   </inspection_tool>
