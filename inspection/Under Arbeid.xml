@@ -193,6 +193,9 @@
         <option value="os" />
         <option value="shutil" />
         <option value="traceback" />
+        <option value="System.AppDomain" />
+        <option value="System.RuntimeType" />
+        <option value="clr" />
       </list>
     </option>
   </inspection_tool>
