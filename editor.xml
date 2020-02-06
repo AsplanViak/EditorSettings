@@ -3,7 +3,6 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
@@ -50,8 +49,6 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="PythonFoldingSettings">
-    <option name="COLLAPSE_LONG_STRINGS" value="true" />
-    <option name="COLLAPSE_LONG_COLLECTIONS" value="true" />
     <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
   </component>
   <component name="XmlEditorOptions">

@@ -4,13 +4,14 @@
     <property name="created">2019-02-08T09:27:16</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-03-22T23:08:59</property>
+    <property name="modified">2020-02-06T15:18:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
+    <option name="CARET_ROW_COLOR" value="60606" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="GUTTER_BACKGROUND" value="0" />
     <option name="READONLY_BACKGROUND" value="2e0008" />
@@ -26,6 +27,12 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="3b805c" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TEXT">

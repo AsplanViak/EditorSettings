@@ -174,7 +174,7 @@
     </option>
   </inspection_tool>
   <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="ignoredIdentifiers">
       <list>
         <option value="__forceddebugmode__" />
@@ -189,6 +189,10 @@
         <option value="pyrevit.revit.activeview" />
         <option value="System.Collections.Generic.Generic_parts.ICollection.ICollection.__getitem__" />
         <option value="Revit.Elements" />
+        <option value="filecmp" />
+        <option value="os" />
+        <option value="shutil" />
+        <option value="traceback" />
       </list>
     </option>
   </inspection_tool>
