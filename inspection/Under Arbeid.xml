@@ -183,19 +183,6 @@
         <option value="dict.__getitem__" />
         <option value="__ipyenginemanager__" />
         <option value="__revit__" />
-        <option value="Revit.GeometryConversion" />
-        <option value="Autodesk.Revit.DB.DB_parts.FillPattern.FillPattern.Id" />
-        <option value="pyrevit.revit.doc" />
-        <option value="pyrevit.revit.activeview" />
-        <option value="System.Collections.Generic.Generic_parts.ICollection.ICollection.__getitem__" />
-        <option value="Revit.Elements" />
-        <option value="filecmp" />
-        <option value="os" />
-        <option value="shutil" />
-        <option value="traceback" />
-        <option value="System.AppDomain" />
-        <option value="System.RuntimeType" />
-        <option value="clr" />
       </list>
     </option>
   </inspection_tool>
