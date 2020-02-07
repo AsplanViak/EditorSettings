@@ -98,9 +98,6 @@
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt s" />
   </action>
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="shift z" />
-  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
