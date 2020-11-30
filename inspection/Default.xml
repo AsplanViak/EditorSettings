@@ -1,3 +1,65 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="DjangoOrmInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DuplicatePropertyInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="CURRENT_FILE" value="true" />
+    <option name="MODULE_WITH_DEPENDENCIES" value="false" />
+    <option name="CHECK_DUPLICATE_VALUES" value="true" />
+    <option name="CHECK_DUPLICATE_KEYS" value="true" />
+    <option name="CHECK_DUPLICATE_KEYS_WITH_DIFFERENT_VALUES" value="true" />
+  </inspection_tool>
+  <inspection_tool class="MakoArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ProjectFingerprint" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyBehaveInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ourVersions">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="2.7" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredErrors">
+      <list>
+        <option value="not at top" />
+        <option value="E402" />
+        <option value="E722" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredErrors">
+      <list>
+        <option value="N802" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="__forceddebugmode__" />
+        <option value="__shiftclick__" />
+        <option value="list.__getitem__" />
+        <option value="dict.__getitem__" />
+        <option value="__ipyenginemanager__" />
+        <option value="__revit__" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyramidSetupInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Restricted_Python_calls" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="false" />
+    <option name="processComments" value="false" />
+  </inspection_tool>
 </profile>

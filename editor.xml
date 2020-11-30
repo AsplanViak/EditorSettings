@@ -1,4 +1,22 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="500" />
+    <option name="JAVADOC_INFO_DELAY" value="500" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Under Arbeid">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
   </component>
@@ -13,21 +31,32 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.py;" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-    <option name="RENAME_VARIABLES_INPLACE" value="false" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
+    <option name="BIDI_TEXT_DIRECTION" value="RTL" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="PythonFoldingSettings">
+    <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
